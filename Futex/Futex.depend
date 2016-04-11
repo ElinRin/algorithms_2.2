@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1458286018 source:e:\documents\codeblocks\futex\futex.cpp
+	"futex.hpp"
+	<iostream>
+
+1458284661 e:\documents\codeblocks\futex\futex.hpp
+	<atomic>
+	<exception>
+	<thread>
+	<assert.h>
+
+1458286485 source:e:\documents\codeblocks\futex\main.cpp
+	"futex.hpp"
+	<vector>
+	<string>
+	<mutex>
+	<iostream>
+

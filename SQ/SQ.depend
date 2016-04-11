@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1458616161 source:e:\documents\codeblocks\sq\futex.cpp
+	"futex.hpp"
+	<iostream>
+	<mutex>
+
+1458837643 e:\documents\codeblocks\sq\futex.hpp
+	<atomic>
+	<exception>
+	<thread>
+	<assert.h>
+
+1458839461 source:e:\documents\codeblocks\sq\main.cpp
+	"sync_queue.hpp"
+	<thread>
+	<iostream>
+
+1458838569 source:e:\documents\codeblocks\sq\sync_queue.cpp
+
+1458838803 e:\documents\codeblocks\sq\sync_queue.hpp
+	"isync_queue.hpp"
+
+1458839019 e:\documents\codeblocks\sq\isync_queue.hpp
+	<condition_variable>
+	<queue>
+

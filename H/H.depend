@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457036675 source:c:\users\влад\desktop\2sem1task\h\polygon.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<algorithm>
+	<fstream>
+
