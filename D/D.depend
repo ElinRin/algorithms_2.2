@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1457023385 source:c:\users\влад\desktop\2sem1task\d\main.cpp
-	<iostream>
-	<vector>
-	<cmath>
-	<fstream>
-
